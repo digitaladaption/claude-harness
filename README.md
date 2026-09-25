@@ -33,6 +33,8 @@ claude-harness/
 ## Install
 
 ```bash
+git clone https://github.com/digitaladaption/claude-harness.git
+cd claude-harness
 ./install.sh ~/code/my-project          # skips files that already exist
 ./install.sh ~/code/my-project --force  # overwrites them
 ```
