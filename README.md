@@ -116,3 +116,7 @@ No `PLAN.md` means no gate, so small fixes aren't slowed down.
 | A specialist subagent | `.claude/agents/<name>.md` |
 | An automatic behaviour | a script in `.claude/hooks/` + an entry in `settings.json` |
 | Auto-approved or blocked tools | `permissions` in `settings.json` |
+
+## License
+
+MIT, see [LICENSE](LICENSE).
